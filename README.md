@@ -1,4 +1,4 @@
-# Assignment_1
+#Hackathon
 SUMMER ANALYTICS 2024
 AI-Plant Hackathon file
 
